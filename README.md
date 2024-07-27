@@ -62,13 +62,14 @@
 #### Mass Ping
 - **Argumente:** 
   - `amount` (Anzahl der zu sendenden Pings)
-  - `delay` (Optionale Verzögerung zwischen den Pings)
 
 #### Spam Channels
 - **Argument:** `name,amount` (Name der Kanäle, Anzahl der zu erstellenden Kanäle)
+- **Beispiel**: `synix nuker, 50`
 
 #### Spam Roles
 - **Argument:** `name,amount` (Name der Rollen, Anzahl der zu erstellenden Rollen)
+- **Beispiel**: `synix, 50`
 
 #### Delete Roles
 - **Keine Argumente erforderlich.**
@@ -84,6 +85,7 @@
 
 #### Category Spam
 - **Argument:** `name,amount` (Name der Kategorien, Anzahl der zu erstellenden Kategorien)
+- **Beispiel**: `synix nuker, 50`
 
 #### Change Bot Status
 - **Argument:** `status` (Neuer Status für den Bot)
